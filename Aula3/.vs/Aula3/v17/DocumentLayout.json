@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|c:\\users\\user\\onedrive\\documentos\\asp.net.mvc\\aula3\\calcularidade\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|solutionrelative:calcularidade\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|c:\\users\\user\\onedrive\\documentos\\asp.net.mvc\\aula3\\calcularidade\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|solutionrelative:calcularidade\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|c:\\users\\user\\onedrive\\documentos\\asp.net.mvc\\aula3\\calcularidade\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|solutionrelative:calcularidade\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|c:\\users\\user\\onedrive\\documentos\\asp.net.mvc\\aula3\\calcularidade\\views\\user\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D01BB2F-00DB-4745-AC1A-84FF8D2818C0}|CalcularIdade\\CalcularIdade.csproj|solutionrelative:calcularidade\\views\\user\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Views\\User\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "CalcularIdade\\Views\\User\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Views\\User\\Resultado.cshtml",
+              "RelativeToolTip": "CalcularIdade\\Views\\User\\Resultado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T00:30:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalcularIdade\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "CalcularIdade\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T00:12:41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CalcularIdade\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CalcularIdade\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:57:48.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CalcularIdade\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula3\\CalcularIdade\\Models\\User.cs",
+              "RelativeToolTip": "CalcularIdade\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:53:12.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
