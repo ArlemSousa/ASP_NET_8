@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "Cadastro de Clientes";
+}
+
+<body>
+    <div class="container">
+        <h1>Cadastro de Pessoas</h1>
+        <form method="post" action="/cadastrar-pessoa">
+            <div class="row">
+                <div class="col-6">
+                    <label for="nome" class="form-label">Nome:</label>
+                    <input type="text" class="form-control" id="nome" name="nome" required>
+                </div>
+                <div class="col-3">
+                    <label for="cpf" class="form-label">CPF:</label>
+                    <input type="text" class="form-control" id="cpf" name="cpf" required>
+                </div>
+                <div class="col-3">
+                    <label for="dataNascimento" class="form-label">Data de Nascimento:</label>
+                    <input type="date" class="form-control" id="dataNascimento" name="dataNascimento" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-3">
+                    <label for="telefone" class="form-label">Telefone:</label>
+                    <input type="tel" class="form-control" id="telefone" name="telefone" required>
+                </div>
+                <div class="col-5">
+                    <label for="email" class="form-label">E-mail:</label>
+                    <input type="email" class="form-control" id="email" name="email" required>
+                </div>
+                <div class="col-2">
+                    <label for="rg" class="form-label">RG:</label>
+                    <input type="text" class="form-control" id="rg" name="rg" required>
+                </div>
+                <div class="col-2">
+                    <label for="sexo" class="form-label">Sexo:</label>
+                    <select class="form-select" id="sexo" name="sexo" required>
+                        <option value="">Selecione</option>
+                        <option value="Masculino">Masculino</option>
+                        <option value="Feminino">Feminino</option>
+                        <option value="Outros">Outros</option>
+                    </select>
+                </div>
+                <ion-icon name="search-outline"></ion-icon>
+            </div>
+            <br />
+            <button type="submit" class="btn btn-primary">Cadastrar</button>
+        </form>
+    </div>
+</body>
+
+<script>
+    // Ao preencher o formulário
+    const nomeInput = document.getElementById('nome');
+    const emailInput = document.getElementById('email');
+
+    nomeInput.addEventListener('input', function () {
+        localStorage.setItem('nome', nomeInput.value);
+    });
+
+    emailInput.addEventListener('input', function () {
+        localStorage.setItem('email', emailInput.value);
+    });
+
+    // Ao carregar a página
+    const nomeSalvo = localStorage.getItem('nome');
+    const emailSalvo = localStorage.getItem('email');
+
+    if (nomeSalvo) {
+        nomeInput.value = nomeSalvo;
+    }
+
+    if (emailSalvo) {
+        emailInput.value = emailSalvo;
+    }
+</script>

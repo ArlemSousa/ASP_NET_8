@@ -1,0 +1,45 @@
+﻿@{
+}
+
+<body>
+    <div class="container">
+        <h1>Cadastro de Produtos</h1>
+        <form method="post" action="/cadastrar-produto">
+
+            <div class="row">
+                <div class="col-2">
+                    <label for="cdProduto" class="form-label">Código do Produto:</label>
+                    <input type="number" class="form-control" id="cdProduto" name="cdProduto" required>
+                </div>
+                <div class="col-8">
+                    <label for="nome" class="form-label">Nome:</label>
+                    <input type="text" class="form-control" id="nome" name="nome" required>
+                </div>
+                <div class="col-2">
+                    <label for="dataCadastro" class="form-label">Data de Cadastro</label>
+                    <input type="date" class="form-control" id="dataCadastro" name="dataCadastro" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-2">
+                    <label for="quantidade" class="form-label">Quantidade</label>
+                    <input type="number" class="form-control" id="quantidade" name="quantidade" required>
+                </div>
+                <div class="col-2">
+                    <label for="preco" class="form-label">Preço:</label>
+                    <input type="number" class="form-control" id="preco" name="preco" required>
+                </div>
+                <div class="col-8">
+                    <label for="descricao" class="form-label">Descrição:</label>
+                    <textarea class="form-control" id="descricao" name="descricao" rows="1" required></textarea>
+                </div>
+
+            </div>
+            <br />
+
+            <button type="submit" class="btn btn-primary">Cadastrar</button>
+
+        </form>
+    </div>
+</body>
