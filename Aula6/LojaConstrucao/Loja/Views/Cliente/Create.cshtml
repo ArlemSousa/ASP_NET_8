@@ -1,0 +1,18 @@
+﻿
+@model Cliente
+
+<h2>Adicionar Cliente</h2>
+
+<form asp-action="Create" method="post">
+    <label class="control-label">Nome Cliente</label>
+    <input class="form-control" asp-for="NomeCliente" />
+    <span asp-validation-for="NomeCliente" class="text-danger"></span>
+
+    <br />
+    <label class="control-label">Email</label>
+    <input class="form-control"  asp-for="Email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <button type="submit" class="btn btn-outline-primary">Salvar</button>
+
+</form>

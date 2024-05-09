@@ -5696,11 +5696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula5\\Loja\\Loja.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula5\\Loja\\Loja.csproj",
       "projectName": "Loja",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula5\\Loja\\Loja.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula5\\Loja\\Loja.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\ASP.NET.MVC\\Aula5\\Loja\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula5\\Loja\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

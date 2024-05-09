@@ -1,0 +1,43 @@
+﻿@{
+
+}
+
+@model List<Cliente>
+
+<h1>Listagem de clientes</h1>
+<a asp-action="Create" class="btn btn-primary">Adicionar Novo Cliente</a>
+
+<hr />
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th>Id Cliente</th>
+            <th>Nome Cliente</th>
+            <th>Email Cliente</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.ClienteId</td>
+                <td>@cliente.NomeCliente</td>
+                <td>@cliente.Email</td>
+                <td>
+
+                    <a asp-action="Detalhes" asp-route-id="@cliente.ClienteId" class="btn btn-sm btn-primary"><i class="bi bi-card-text"></i> Detalhes</a>
+                    <a asp-action="Editar" asp-route-id="@cliente.ClienteId" class="btn btn-sm btn-warning"><i class="bi bi-pencil-square"></i> Editar</a>
+                    <a asp-action="Excluir" asp-route-id="@cliente.ClienteId" class="btn btn-sm btn-danger"><i class="bi bi-trash"></i> Excluir</a>
+
+                    @* <a href="@Url.Action("Detalhes", "Produto", new { id = cliente.ClienteId })" class="btn btn-sm btn-primary">Detalhes</a>
+                <a href="@Url.Action("Editar", "Produto", new { id = cliente.ClienteId })" class="btn btn-sm btn-primary">Editar</a>
+                <a href="@Url.Action("Excluir", "Produto", new { id = cliente.ClienteId })" class="btn btn-sm btn-danger">Excluir</a> *@
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
