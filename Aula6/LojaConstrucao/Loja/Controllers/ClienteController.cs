@@ -17,6 +17,7 @@ namespace Loja.Controllers
             new Cliente {ClienteId = 5, NomeCliente = "Elisama", Email = "lih@sama.com"}
         };
 
+        //Teste
         
         public IActionResult Index()
         {
