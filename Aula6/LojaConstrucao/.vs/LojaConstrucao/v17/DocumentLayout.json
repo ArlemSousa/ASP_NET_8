@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +19,24 @@
       "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|solutionrelative:loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DBF1A96-77AB-4CC6-9452-CAD38F83ABAE}|Loja\\Loja.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula6\\lojaconstrucao\\loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,56 +50,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Cliente\\Index.cshtml",
-              "RelativeDocumentMoniker": "Loja\\Views\\Cliente\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Cliente\\Index.cshtml",
-              "RelativeToolTip": "Loja\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T22:44:57.009Z",
+              "WhenOpened": "2024-05-09T21:54:20.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T22:44:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "Loja\\Views\\Produto\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Produto\\Index.cshtml",
               "RelativeToolTip": "Loja\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-09T01:35:45.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Loja\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Loja\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAIAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T22:30:22.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "Loja\\Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "Loja\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T01:34:04.437Z",
               "EditorCaption": ""
@@ -108,39 +125,39 @@
               "RelativeDocumentMoniker": "Loja\\Views\\Cliente\\Create.cshtml",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Cliente\\Create.cshtml",
               "RelativeToolTip": "Loja\\Views\\Cliente\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T23:55:12.664Z"
+              "WhenOpened": "2024-05-08T23:55:12.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Loja\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Loja\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAB6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T23:20:48.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T23:20:48.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Loja\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Models\\Produto.cs",
               "RelativeToolTip": "Loja\\Models\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T22:22:44.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Loja\\Models\\Cliente.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula6\\LojaConstrucao\\Loja\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Loja\\Controllers\\HomeController.cs",

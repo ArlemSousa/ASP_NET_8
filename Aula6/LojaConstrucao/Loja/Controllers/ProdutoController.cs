@@ -20,5 +20,26 @@ namespace Loja.Controllers
         {
             return View(_produtos);
         }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create (Produto produto)
+        {
+            if (ModelState.IsValid)
+            {
+
+                produto.Id = _produtos.Count > 0 ? _produtos.Max(x => x.Id) : 0;
+                _produtos.Add(produto);
+
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
     }
 }
