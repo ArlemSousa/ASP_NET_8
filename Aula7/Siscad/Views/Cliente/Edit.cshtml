@@ -1,0 +1,27 @@
+﻿@model Cliente
+
+<h2>Formulário Editar Cliente</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="IdCliente" />
+
+    <label class="control-label">Nome Cliente</label>
+    <input class="form-control" asp-for="NomeCliente" />
+    <span asp-validation-for="NomeCliente" class="text-danger"></span>
+
+    <br />
+    <label class="control-label">Email</label>
+    <input class="form-control" asp-for="Email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <br />
+    <label class="control-label">Descrição</label>
+    <input class="form-control" asp-for="Descricao" />
+    <span asp-validation-for="Descricao" class="text-danger"></span>
+
+    <br />
+    <button type="submit" class="btn btn-outline-success">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+
+</form>

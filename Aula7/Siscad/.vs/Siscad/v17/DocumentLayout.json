@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula7\\siscad\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula7\\siscad\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|solutionrelative:views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula7\\siscad\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|solutionrelative:views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula7\\siscad\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|solutionrelative:views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula7\\siscad\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula7\\siscad\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6983C71C-4071-4EF7-A4FB-5AA260E30101}|Siscad.csproj|solutionrelative:views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:26:49.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:05:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T23:20:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:49:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T22:40:05.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula7\\Siscad\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwFsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:39:46.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
