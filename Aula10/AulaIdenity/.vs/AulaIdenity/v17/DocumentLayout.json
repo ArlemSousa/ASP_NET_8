@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\views\\home\\somenteadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\views\\home\\somenteadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\data\\migrations\\20240515230717_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\data\\migrations\\20240515230717_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|c:\\users\\user\\onedrive\\documentos\\repositorio\\asp_net_8\\asp_net_8\\aula10\\aulaidenity\\aulaidenity\\data\\migrations\\20240515222901_aulaidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D12BB94-46FD-48AA-A007-E652836A9C1C}|AulaIdenity\\AulaIdenity.csproj|solutionrelative:aulaidenity\\data\\migrations\\20240515222901_aulaidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AulaIdenity\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AulaIdenity\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T00:06:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SomenteAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Views\\Home\\SomenteAdmin.cshtml",
+              "RelativeDocumentMoniker": "AulaIdenity\\Views\\Home\\SomenteAdmin.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Views\\Home\\SomenteAdmin.cshtml",
+              "RelativeToolTip": "AulaIdenity\\Views\\Home\\SomenteAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T23:44:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "AulaIdenity\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:12:36.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AulaIdenity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AulaIdenity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T23:07:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AulaIdenity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:05:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "AulaIdenity\\Controllers\\FuncionariosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:56:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Program.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Program.cs",
+              "RelativeToolTip": "AulaIdenity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:47:34.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AulaIdenity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:39:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Models\\Funcionario.cs",
+              "RelativeToolTip": "AulaIdenity\\Models\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:13:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\appsettings.json",
+              "RelativeDocumentMoniker": "AulaIdenity\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\appsettings.json",
+              "RelativeToolTip": "AulaIdenity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T22:27:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240515230717_Migration2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\Migrations\\20240515230717_Migration2.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Data\\Migrations\\20240515230717_Migration2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\Migrations\\20240515230717_Migration2.cs",
+              "RelativeToolTip": "AulaIdenity\\Data\\Migrations\\20240515230717_Migration2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:07:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240515222901_AulaIdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\Migrations\\20240515222901_AulaIdentityMigration.cs",
+              "RelativeDocumentMoniker": "AulaIdenity\\Data\\Migrations\\20240515222901_AulaIdentityMigration.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\Repositorio\\ASP_NET_8\\ASP_NET_8\\Aula10\\AulaIdenity\\AulaIdenity\\Data\\Migrations\\20240515222901_AulaIdentityMigration.cs",
+              "RelativeToolTip": "AulaIdenity\\Data\\Migrations\\20240515222901_AulaIdentityMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:29:01.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
