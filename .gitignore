@@ -20,3 +20,9 @@
 /Aula7/Siscad/obj/Release/net8.0
 /Aula9/CrudEntity/obj/Release/net8.0
 /.vs
+*.vsidx
+/Aula4/.vs/ProjectEvaluation
+/Aula1/.vs
+/Aula11/ExercicioAula11_CadastroAlunoEntity
+/Aula6/LojaConstrucao/.vs/ProjectEvaluation
+/Aula5/.vs/ProjectEvaluation
