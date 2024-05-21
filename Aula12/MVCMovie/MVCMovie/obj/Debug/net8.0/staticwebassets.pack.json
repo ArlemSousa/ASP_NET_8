@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\wwwroot\\js\\jquery-validate-pt-BR.js",
+      "PackagePath": "staticwebassets\\js\\jquery-validate-pt-BR.js"
+    },
+    {
       "Id": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

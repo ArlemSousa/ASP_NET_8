@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\views\\administrators\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\administrators\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\controllers\\administratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\controllers\\administratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\views\\administrators\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\administrators\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Migrations\\20240520224446_MoviesMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCMovie\\Migrations\\20240520224446_MoviesMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula12\\mvcmovie\\mvcmovie\\migrations\\20240520224446_moviesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13B891-D191-4342-B2CF-AD48AABB46EC}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\migrations\\20240520224446_moviesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +54,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "MVCMovie\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Administrators\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCMovie\\Views\\Administrators\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Administrators\\Create.cshtml",
+              "RelativeToolTip": "MVCMovie\\Views\\Administrators\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T23:51:39.149Z",
+              "WhenOpened": "2024-05-21T23:05:09.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AdministratorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Controllers\\AdministratorsController.cs",
+              "RelativeDocumentMoniker": "MVCMovie\\Controllers\\AdministratorsController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Controllers\\AdministratorsController.cs",
+              "RelativeToolTip": "MVCMovie\\Controllers\\AdministratorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:32:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Administrators\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCMovie\\Views\\Administrators\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Administrators\\Index.cshtml",
+              "RelativeToolTip": "MVCMovie\\Views\\Administrators\\Index.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T22:20:07.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCMovie\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVCMovie\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB9AAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-20T23:31:40.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Program.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Program.cs",
@@ -88,12 +122,11 @@
               "RelativeToolTip": "MVCMovie\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:23:46.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T23:23:46.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Models\\SeedData.cs",
@@ -101,12 +134,11 @@
               "RelativeToolTip": "MVCMovie\\Models\\SeedData.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:10:24.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T23:10:24.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MVCMovieContext.cs",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Data\\MVCMovieContext.cs",
@@ -114,12 +146,11 @@
               "RelativeToolTip": "MVCMovie\\Data\\MVCMovieContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:01:12.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T23:01:12.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Create.cshtml",
@@ -127,12 +158,11 @@
               "RelativeToolTip": "MVCMovie\\Views\\Movies\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T22:54:59.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T22:54:59.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "20240520224446_MoviesMigration.cs",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Migrations\\20240520224446_MoviesMigration.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Migrations\\20240520224446_MoviesMigration.cs",
@@ -140,44 +170,30 @@
               "RelativeToolTip": "MVCMovie\\Migrations\\20240520224446_MoviesMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T22:44:47.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T22:44:47.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\appsettings.json",
-              "RelativeDocumentMoniker": "MVCMovie\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\appsettings.json",
-              "RelativeToolTip": "MVCMovie\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T22:38:52.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MVCMovie\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAMAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T22:31:11.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MVCMovie\\Models\\Movie.cs",
               "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\Models\\Movie.cs",
               "RelativeToolTip": "MVCMovie\\Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T22:23:07.198Z",
               "EditorCaption": ""

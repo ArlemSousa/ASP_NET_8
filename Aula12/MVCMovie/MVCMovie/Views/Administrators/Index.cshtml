@@ -1,0 +1,91 @@
+﻿@model IEnumerable<MVCMovie.Models.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+    var totalPrice = Model.Sum(m => m.Price);
+    //pegar todos os valores da coluna price e dar um sum
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="Administrators" asp-action="Index" method="get">
+
+    <div class="row">
+
+        <div class="col">
+            <label>Data Inicial</label>
+            <input type="date" name="startDate" class="form-control" />
+        </div>
+        <div class="col">
+            <label>Data Final</label>
+            <input type="date" name="endDate" class="form-control" />
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-1">
+                <input type="submit" value="filtrar" class="btn btn-primary" />
+            </div>
+        </div>
+
+
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+    <tfoot>
+        <tr>
+            <td>
+                <strong>Total Price: @totalPrice.ToString()</strong>
+
+            </td>
+        </tr>
+
+    </tfoot>
+
+</table>

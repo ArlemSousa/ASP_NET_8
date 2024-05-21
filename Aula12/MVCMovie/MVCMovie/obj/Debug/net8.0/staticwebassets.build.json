@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sqMBrEscXo5Al8995GPcztKoKRPDe07FkTccnX8iJOs=",
+  "Hash": "tuXma+IiPwrkZOPYz7PD9k3AEIsDC5W2sNaeLDRM4Is=",
   "Source": "MVCMovie",
   "BasePath": "_content/MVCMovie",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\wwwroot\\js\\jquery-validate-pt-BR.js",
+      "SourceId": "MVCMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\wwwroot\\",
+      "BasePath": "_content/MVCMovie",
+      "RelativePath": "js/jquery-validate-pt-BR.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-validate-pt-BR.js"
     },
     {
       "Identity": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula12\\MVCMovie\\MVCMovie\\wwwroot\\js\\site.js",
