@@ -1,0 +1,31 @@
+﻿@model IEnumerable<SalesWebMvc.Models.Departments>
+<h1>Departments List</h1>
+
+
+<table class="table">
+    <thead>
+    <th>@Html.DisplayNameFor(model => model.DepartmentId)</> </th>
+    <th>@Html.DisplayNameFor(model => model.Name)</> </th>
+    <th>Ações</th>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentId)
+                </td>
+
+                <td>
+
+                <td>
+                    <button type="button" class="btn btn-primary">Editar</button>
+                    <button type="button" class="btn btn-info">Detalhes</button>
+                    <button type="button" class="btn btn-danger">Excluir</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

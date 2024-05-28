@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\",
+  "WorkspaceRootPath": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\models\\sexoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:models\\sexoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\exercicioaula11_cadastroaluno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:exercicioaula11_cadastroaluno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\models\\sexoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:models\\sexoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\exercicioaula11_cadastroaluno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:exercicioaula11_cadastroaluno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Migrations\\20240516230500_CadastroAlunoMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240516230500_CadastroAlunoMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\data\\cadastroalunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\data\\cadastroalunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:data\\cadastroalunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\famota\\source\\repos\\exercicioaula11_cadastroaluno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula11\\exercicioaula11_cadastroalunoentity\\migrations\\20240516230500_cadastroalunomigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35DEA3C-83BE-4CAE-AA61-72B8AE4F4127}|ExercicioAula11_CadastroAluno.csproj|solutionrelative:migrations\\20240516230500_cadastroalunomigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,189 +66,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Alunos\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Alunos\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Alunos\\Create.cshtml",
               "RelativeToolTip": "Views\\Alunos\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-17T00:02:55.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SexoEnum.cs",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Models\\SexoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Models\\SexoEnum.cs",
               "RelativeDocumentMoniker": "Models\\SexoEnum.cs",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Models\\SexoEnum.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Models\\SexoEnum.cs",
               "RelativeToolTip": "Models\\SexoEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:52:37.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:52:37.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExercicioAula11_CadastroAluno",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\ExercicioAula11_CadastroAluno.csproj",
+              "DocumentIndex": 4,
+              "Title": "ExercicioAula11_CadastroAluno.csproj",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\ExercicioAula11_CadastroAluno.csproj",
               "RelativeDocumentMoniker": "ExercicioAula11_CadastroAluno.csproj",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\ExercicioAula11_CadastroAluno.csproj",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\ExercicioAula11_CadastroAluno.csproj",
               "RelativeToolTip": "ExercicioAula11_CadastroAluno.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-16T23:51:51.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:51:51.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Alunos\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Alunos\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Alunos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Alunos\\Edit.cshtml",
               "RelativeToolTip": "Views\\Alunos\\Edit.cshtml",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwBoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T23:50:02.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "jquery.validate.min.js",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhEQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-16T23:38:54.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:50:02.791Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "jquery.validate.js",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ViewState": "AQIAAGcBAAAAAAAAAAAAwHMBAAAjAAAA",
+              "Title": "jquery.validate.min.js",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhEQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-16T23:37:09.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:38:54.656Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAAwHMBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T23:37:09.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Alunos\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Alunos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Alunos\\Index.cshtml",
               "RelativeToolTip": "Views\\Alunos\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-16T23:13:39.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Models\\Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Models\\Aluno.cs",
               "RelativeToolTip": "Models\\Aluno.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:12:03.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240516230500_CadastroAlunoMigration.cs",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Migrations\\20240516230500_CadastroAlunoMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240516230500_CadastroAlunoMigration.cs",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Migrations\\20240516230500_CadastroAlunoMigration.cs",
-              "RelativeToolTip": "Migrations\\20240516230500_CadastroAlunoMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:05:00.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-16T23:03:21.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:02:49.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CadastroAlunoContext.cs",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Data\\CadastroAlunoContext.cs",
-              "RelativeDocumentMoniker": "Data\\CadastroAlunoContext.cs",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Data\\CadastroAlunoContext.cs",
-              "RelativeToolTip": "Data\\CadastroAlunoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T22:59:13.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:12:03.417Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "20240516230500_CadastroAlunoMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Migrations\\20240516230500_CadastroAlunoMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240516230500_CadastroAlunoMigration.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Migrations\\20240516230500_CadastroAlunoMigration.cs",
+              "RelativeToolTip": "Migrations\\20240516230500_CadastroAlunoMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:05:00.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T23:03:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:02:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastroAlunoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Data\\CadastroAlunoContext.cs",
+              "RelativeDocumentMoniker": "Data\\CadastroAlunoContext.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Data\\CadastroAlunoContext.cs",
+              "RelativeToolTip": "Data\\CadastroAlunoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:59:13.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAUAAAAAAAAAAAAcwB8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T22:57:07.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T22:57:07.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Controllers\\AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Controllers\\AlunosController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\Controllers\\AlunosController.cs",
               "RelativeToolTip": "Controllers\\AlunosController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T22:56:36.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T22:56:36.501Z"
             }
           ]
         }

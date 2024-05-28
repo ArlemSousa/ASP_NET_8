@@ -7838,23 +7838,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\famota\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Jarvis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\ExercicioAula11_CadastroAluno.csproj",
+      "projectUniqueName": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\ExercicioAula11_CadastroAluno.csproj",
       "projectName": "ExercicioAula11_CadastroAluno",
-      "projectPath": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\ExercicioAula11_CadastroAluno.csproj",
-      "packagesPath": "C:\\Users\\famota\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\famota\\source\\repos\\ExercicioAula11_CadastroAluno\\obj\\",
+      "projectPath": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\ExercicioAula11_CadastroAluno.csproj",
+      "packagesPath": "C:\\Users\\Jarvis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula11\\ExercicioAula11_CadastroAlunoEntity\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\famota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jarvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
