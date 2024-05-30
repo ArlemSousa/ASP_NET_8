@@ -1,0 +1,25 @@
+﻿@model IEnumerable<TMDBApi.Models.Genre>
+
+<h2>Buscar Filmes</h2>
+
+<form asp-action="Search" method="post">
+    <div>
+        <label for="query">Nome do Filme</label>
+        <input type="text" id="query" name="query" />
+    </div>
+    <div>
+        <label for="genreId">Gênero</label>
+        <select id="genreId" name="genreId">
+            <option value="">--Selecione--</option>
+            @foreach (var genre in Model)
+            {
+                <option value="@genre.Id">@genre.Name</option>
+            }
+        </select>
+    </div>
+    <div>
+        <label for="year">Ano</label>
+        <input type="number" id="year" name="year" />
+    </div>
+    <button type="submit">Buscar</button>
+</form>

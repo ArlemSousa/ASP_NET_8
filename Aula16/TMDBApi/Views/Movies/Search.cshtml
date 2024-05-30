@@ -1,0 +1,66 @@
+﻿@model IEnumerable<TMDBApi.Models.Movie>
+
+@{
+    ViewData["Title"] = "Resultados da Busca";
+}
+
+<h2>Resultados da Busca</h2>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var movie in Model)
+    {
+        <div class="col">
+            <div class="card h-100">
+                @if (!string.IsNullOrEmpty(movie.PosterPath))
+                {
+                    <img class="card-img-top" src="https://image.tmdb.org/t/p/w200/@movie.PosterPath" alt="@movie.Title">
+                }
+                else
+                {
+                    <img class="card-img-top" src="https://via.placeholder.com/500x750?text=No+Image" alt="No Image">
+                }
+                
+                
+                
+                <div class="card-body">
+                    <h5 class="card-title">@movie.Title</h5>
+                    <p class="card-text">Data de Lançamento: @DateTime.Parse(movie.ReleaseDate).ToString("dd/MM/yyyy")</p>
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#movieModal_@movie.Id">
+                        Detalhes
+                    </button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@foreach (var movie in Model)
+{
+    <!-- Modal -->
+    <div class="modal fade" id="movieModal_@movie.Id" tabindex="-1" aria-labelledby="movieModalLabel_@movie.Id" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="movieModalLabel_@movie.Id">@movie.Title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <img class="card-img-top" src="https://image.tmdb.org/t/p/w200/@movie.PosterPath" style="width:150px; float:left; margin-right: 5px;" alt="@movie.Title">
+                    
+                    
+                    <p><strong>Data de Lançamento:</strong> @movie.ReleaseDate</p>
+                    <p><strong>Sinopse:</strong> @movie.Overview</p>
+                    <p><strong>Nota:</strong> @movie.VoteAverage/10</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+}
