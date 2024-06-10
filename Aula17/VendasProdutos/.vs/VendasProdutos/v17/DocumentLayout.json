@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\migrations\\20240603224051_createvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\migrations\\20240603224051_createvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|c:\\users\\jarvis\\source\\repos\\arlemsousa\\asp_net_8\\aula17\\vendasprodutos\\vendasprodutos\\migrations\\20240603222958_credentialprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8A5FF7-E879-4527-8958-78F9EF64EEFC}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\migrations\\20240603222958_credentialprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Views\\Vendas\\Create.cshtml",
+              "RelativeDocumentMoniker": "VendasProdutos\\Views\\Vendas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Views\\Vendas\\Create.cshtml",
+              "RelativeToolTip": "VendasProdutos\\Views\\Vendas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T23:14:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VendasProdutos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VendasProdutos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T22:41:22.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240603224051_CreateVendas.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Migrations\\20240603224051_CreateVendas.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Migrations\\20240603224051_CreateVendas.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Migrations\\20240603224051_CreateVendas.cs",
+              "RelativeToolTip": "VendasProdutos\\Migrations\\20240603224051_CreateVendas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:40:51.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Controllers\\VendasController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "VendasProdutos\\Controllers\\VendasController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:40:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Models\\Venda.cs",
+              "RelativeToolTip": "VendasProdutos\\Models\\Venda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:34:57.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\appsettings.json",
+              "RelativeDocumentMoniker": "VendasProdutos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\appsettings.json",
+              "RelativeToolTip": "VendasProdutos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T22:30:54.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240603222958_Credentialprodutos.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Migrations\\20240603222958_Credentialprodutos.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Migrations\\20240603222958_Credentialprodutos.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Migrations\\20240603222958_Credentialprodutos.cs",
+              "RelativeToolTip": "VendasProdutos\\Migrations\\20240603222958_Credentialprodutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:29:58.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "VendasProdutos\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:27:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\ArlemSousa\\ASP_NET_8\\Aula17\\VendasProdutos\\VendasProdutos\\Models\\Produto.cs",
+              "RelativeToolTip": "VendasProdutos\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:19:37.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
