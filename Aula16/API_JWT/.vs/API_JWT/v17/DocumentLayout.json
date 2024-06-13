@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\controllers\\data\\apicatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\data\\apicatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\api_jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\api_jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "API_JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\appsettings.json",
+              "RelativeToolTip": "API_JWT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T23:06:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API_JWT.http",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.http",
+              "RelativeDocumentMoniker": "API_JWT\\API_JWT.http",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.http",
+              "RelativeToolTip": "API_JWT\\API_JWT.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-12T23:16:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Program.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Program.cs",
+              "RelativeToolTip": "API_JWT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:06:28.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APICatalogContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\Data\\APICatalogContext.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Controllers\\Data\\APICatalogContext.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\Data\\APICatalogContext.cs",
+              "RelativeToolTip": "API_JWT\\Controllers\\Data\\APICatalogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:40:45.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "API_JWT\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:34:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Models\\Categoria.cs",
+              "RelativeToolTip": "API_JWT\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:17:52.514Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
