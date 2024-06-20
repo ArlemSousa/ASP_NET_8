@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.csproj": {}
+    "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\API_JWT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.csproj": {
+    "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\API_JWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.csproj",
+        "projectUniqueName": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\API_JWT.csproj",
         "projectName": "API_JWT",
-        "projectPath": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.csproj",
+        "projectPath": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\API_JWT.csproj",
         "packagesPath": "C:\\Users\\Jarvis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\obj\\",
+        "outputPath": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jarvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -66,9 +74,13 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

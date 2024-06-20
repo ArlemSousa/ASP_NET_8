@@ -1,30 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\",
+  "WorkspaceRootPath": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\controllers\\data\\apicatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\data\\apicatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\migrations\\20240613235902_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\migrations\\20240613235902_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\controllers\\data\\apicatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\data\\apicatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\documents\\projetos\\asp_net_8\\aula18\\api_jwt\\api_jwt\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\api_jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\api_jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|c:\\users\\jarvis\\source\\repos\\api_jwt\\api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFCEAB1-FEC9-40C7-B94F-6E01C85C80CF}|API_JWT\\API_JWT.csproj|solutionrelative:api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,92 +66,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API_JWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:22:20.626Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\appsettings.json",
-              "RelativeDocumentMoniker": "API_JWT\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\appsettings.json",
-              "RelativeToolTip": "API_JWT\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T23:06:28.528Z"
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Services\\TokenService.cs",
+              "RelativeToolTip": "API_JWT\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:18:22.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "API_JWT.http",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.http",
-              "RelativeDocumentMoniker": "API_JWT\\API_JWT.http",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\API_JWT.http",
-              "RelativeToolTip": "API_JWT\\API_JWT.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-12T23:16:56.494Z"
+              "DocumentIndex": 3,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Services\\ITokenService.cs",
+              "RelativeToolTip": "API_JWT\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:14:49.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "API_JWT\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:12:16.555Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Program.cs",
-              "RelativeDocumentMoniker": "API_JWT\\Program.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Program.cs",
-              "RelativeToolTip": "API_JWT\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\Response.cs",
+              "RelativeToolTip": "API_JWT\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:06:28.927Z"
+              "WhenOpened": "2024-06-14T00:11:29.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\TokenModel.cs",
+              "RelativeToolTip": "API_JWT\\Models\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:11:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\LoginModel.cs",
+              "RelativeToolTip": "API_JWT\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:07:30.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Program.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Program.cs",
+              "RelativeToolTip": "API_JWT\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:06:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240613235902_Token.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Migrations\\20240613235902_Token.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Migrations\\20240613235902_Token.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Migrations\\20240613235902_Token.cs",
+              "RelativeToolTip": "API_JWT\\Migrations\\20240613235902_Token.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:59:02.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "API_JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\appsettings.json",
+              "RelativeToolTip": "API_JWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T23:19:53.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "APICatalogContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\Data\\APICatalogContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Controllers\\Data\\APICatalogContext.cs",
               "RelativeDocumentMoniker": "API_JWT\\Controllers\\Data\\APICatalogContext.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\Data\\APICatalogContext.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Controllers\\Data\\APICatalogContext.cs",
               "RelativeToolTip": "API_JWT\\Controllers\\Data\\APICatalogContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T22:40:45.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "API_JWT\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "API_JWT\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "API_JWT\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:34:19.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T23:44:27.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "API_JWT\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\API_JWT\\API_JWT\\Models\\Categoria.cs",
-              "RelativeToolTip": "API_JWT\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "DocumentIndex": 12,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "API_JWT\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:17:52.514Z"
+              "WhenOpened": "2024-06-12T22:34:19.582Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "API_JWT\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\Documents\\Projetos\\ASP_NET_8\\Aula18\\API_JWT\\API_JWT\\Models\\Categoria.cs",
+              "RelativeToolTip": "API_JWT\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:17:52.514Z"
             }
           ]
         }

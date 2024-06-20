@@ -1,5 +1,6 @@
 ﻿using API_JWT.Controllers.Data;
 using API_JWT.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel;
@@ -17,6 +18,7 @@ namespace API_JWT.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         [ProducesResponseType(StatusCodes.Status200OK)] // Indicate successful response
         [ProducesResponseType(StatusCodes.Status404NotFound)] // Indicate potential error
         [Description("Retrieves all categories from the database.")] // Description in Swagger
